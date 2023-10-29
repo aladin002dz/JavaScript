@@ -1,4 +1,4 @@
-import { HuffmanCoder } from '../HuffmanHeap'
+import { HuffmanCoder } from '../Huffman'
 
 describe('HuffmanCoder', () => {
   it('should encode and decode a simple string', () => {

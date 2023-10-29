@@ -35,6 +35,8 @@
   * [ROT13](Ciphers/ROT13.js)
   * [VigenereCipher](Ciphers/VigenereCipher.js)
   * [XORCipher](Ciphers/XORCipher.js)
+* **Compression**
+  * [Huffman](Compression/Huffman.js)
 * **Conversions**
   * [ArbitraryBase](Conversions/ArbitraryBase.js)
   * [ArrayBufferToBase64](Conversions/ArrayBufferToBase64.js)
